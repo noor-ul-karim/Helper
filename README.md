@@ -7,3 +7,5 @@ To Be completed
 - The layout
 -Connecting JAVA code to XML file
 - Running Tests on Physical Device / Emulator
+
+
